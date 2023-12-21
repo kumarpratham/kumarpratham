@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Pratham kumar
 - 👀 I’m interested in Software Development 
-- 🌱 I’m currently learning Android Devlopment
+- 🌱 I’m currently learning Android Development
 - 📫 How to reach me kumar.pratham.2205@gmail.com
 
 <!---
