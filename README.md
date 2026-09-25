@@ -1,6 +1,6 @@
 # Hi, I'm Pratham Kumar 👋
 
-### MCA Student | Software Developer | Android & Backend Enthusiast
+### MCA Student | Software Developer | AI / ML Enthusiast
 
 I'm an MCA student at **IET Lucknow** interested in building practical software applications and learning modern development technologies.
 
