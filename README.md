@@ -16,8 +16,7 @@ I'm an MCA student at **IET Lucknow** interested in building practical software 
 
 * **QuickReads** — E-News website built with Node.js, Express.js, News API, MongoDB and Handlebars.
 * **AlgoViz** — Android algorithm visualization application built with Kotlin and Jetpack Compose.
-* **Chatting App** — Real-time messaging application using Firebase and Android.
-* **ResQMatch** — Disaster victim identification concept/prototype exploring AI-assisted matching.
+
 
 ### 📚 Currently Learning
 
