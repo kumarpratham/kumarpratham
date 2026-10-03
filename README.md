@@ -22,7 +22,6 @@ I'm an MCA student at **IET Lucknow** interested in building practical software 
 ### 📚 Currently Learning
 
 * Data Structures & Algorithms
-* Android Development with Jetpack Compose
 * Backend Development
 * Machine Learning with Python
 
